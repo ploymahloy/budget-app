@@ -1,6 +1,6 @@
-# Deployment #
+# Budget App 
 
-https://budget-app-mahloy.herokuapp.com/
+## Live: https://budget-app-mahloy.herokuapp.com
 
 ## Online/Offline Budget Tracker ##
 
