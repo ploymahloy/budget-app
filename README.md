@@ -1,5 +1,8 @@
 # Budget App 
 
+## Todo:
+  * Use D3 for graph
+
 ## Live: https://budget-app-mahloy.herokuapp.com
 
 ## Online/Offline Budget Tracker ##
